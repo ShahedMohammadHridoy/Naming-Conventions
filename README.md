@@ -26,6 +26,9 @@ This is a brief summary of programming naming conventions and notes about how I 
 
 **Default:** When someone says camel case, they are commonly referring to lower camel case.
 
+### PascalCase
+
+
 ### compactcase
 I don't know of a commonly used word to describe this word compression technique.  
 * lowercompactcase  
