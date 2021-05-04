@@ -46,3 +46,5 @@ I don't know of a commonly used word to describe this word compression technique
 * Push two words together if easy to read, i.e. scrollspy.js
 
 ### ALLCAPS
+README.md  
+LICENSE  
