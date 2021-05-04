@@ -27,7 +27,10 @@ This is a brief summary of programming naming conventions and notes about how I 
 **Default:** When someone says camel case, they are commonly referring to lower camel case.
 
 ### PascalCase
-
+* Words created by concatenating capitalized words. An example is this page's title, PascalCase.
+* Sometimes called "UpperCamelCase", or "DromedaryCase".
+* Distinguished from CamelCase by the restriction that the first letter must be upper case. ("camelCase" isn't PascalCase, but "PascalCase" is.)
+* WikiCase is more restrictive than PascalCase: WikiCase does not allow 1-letter words, but PascalCase does. ("ReadARecord" is PascalCase but not WikiCase.)
 
 ### compactcase
 I don't know of a commonly used word to describe this word compression technique.  
